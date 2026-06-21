@@ -1,4 +1,5 @@
 # ShowMore Bot
+The recent expandable blockquote feature in Telegram renders this bot ineffective. Consequently, this repository has been archived.
 
 A bot that replace long texts in channel with "**ShowMore>>**" button. Interested users/subscribers can read the post by tapping on it. Inspired by the **Read More** buttons on blogs.
 
